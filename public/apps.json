@@ -18,11 +18,11 @@
       "tintColor": "#2F6FAD",
       "versions": [
         {
-          "version": "1.3",
+          "version": "1.3.1",
           "date": "2026-06-05",
-          "localizedDescription": "Updated to ARMSX2 iOS 1.3.\n\nAdded the Burnout graphics skyfix path present in 1.2.4 to Burnout 3: Takedown.\n\nImproved EE performance behavior by removing old iPSX2 diagnostic overhead from hot emulation paths. Overall emulator performance is now improved, and device heat may be improved as well.\n\nVarious games have received corrected graphics thanks to @Dib1998 VU fix in 1.2.4\n\nFixed custom PNG texture replacements appearing too dark on iOS thanks to @yuliangtao\n\nUpdated app and OSD version display to ARMSX2 iOS 1.3.",
-          "downloadURL": "https://ios.armsx2.net/ipas/ARMSX2-iOS-1.3.ipa",
-          "size": 14107294,
+          "localizedDescription": "Updated to ARMSX2 iOS 1.3.1.\n\nFixed Black’s black sky on iOS Metal.\n\nUpdated app metadata, OSD, and build marker to 1.3.1.\n\nMTVU and deinterlacing are now available in Per-Game Settings.\n\nThe Virtual Pad can now automatically hide when an external controller is connected.\n\nSilent Hill 3 graphics issues are also fixed by disabling gamedb core fixes.",
+          "downloadURL": "https://ios.armsx2.net/ipas/ARMSX2-iOS-1.3.1.ipa",
+          "size": 14116766,
           "minOSVersion": "18.0"
         }
       ],
